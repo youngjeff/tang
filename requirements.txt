@@ -1,3 +1,5 @@
-Django
+django
 django-bootstrap-toolkit
 django-registration-redux
+Pillow
+bcrypt
